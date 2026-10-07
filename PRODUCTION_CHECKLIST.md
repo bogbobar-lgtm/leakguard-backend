@@ -1,0 +1,13 @@
+# Production checklist
+- [x] Deterministic engine
+- [x] Synthetic test data
+- [x] FastAPI wrapper
+- [x] Docker deployment file
+- [x] Database schema
+- [ ] Supabase project
+- [ ] Render deployment
+- [ ] API authentication
+- [ ] Database RLS
+- [ ] Make/Jotform connection
+- [ ] End-to-end test
+- [ ] Privacy/DPA/retention controls
